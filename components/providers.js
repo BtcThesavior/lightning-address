@@ -371,7 +371,7 @@ export const Providers = () => (
             <FountainImage src={'/images/voltpay.png'} alt="Voltpay App" />
             <DomainURL>you@voltpay.app</DomainURL>
           </ImageWrapper>
-          <ProviderSignUpButton target="_blank" href="https://voltpay.app">Open Fountain</ProviderSignUpButton>
+          <ProviderSignUpButton target="_blank" href="https://voltpay.app">Open Voltpay</ProviderSignUpButton>
         </ProviderCard>
       </ProvidersLeft>
       <ProvidersRight>
